@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "The Dragon Nation"
+    ],
+    "environment": "*",
+    "id": "powerrangers",
+    "version": "1.0.0",
+    "name": "PowerRangers",
+    "description": "powerrangers",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

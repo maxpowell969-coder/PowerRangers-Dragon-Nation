@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "powerrangers",
+        "pack_format": 15,
+        "description": "powerrangers",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}
